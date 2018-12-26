@@ -1,6 +1,6 @@
 <?php
 /** 
- * XML Builder Lirary
+ * XML Builder Library
  */
 require_once 'vendor/autoload.php';
 use AaronDDM\XMLBuilder\XMLArray;
