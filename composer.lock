@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "dfdf3891353937f7cdda08c4d927f088",
+    "packages": [
+        {
+            "name": "aaronddm/xml-builder",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AaronDDM/XMLBuilder.git",
+                "reference": "85b5f86f2de143343883581b0ed3ae7055f1f4ec"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AaronDDM/XMLBuilder/zipball/85b5f86f2de143343883581b0ed3ae7055f1f4ec",
+                "reference": "85b5f86f2de143343883581b0ed3ae7055f1f4ec",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1.0"
+            },
+            "require-dev": {
+                "ext-xmlwriter": "*",
+                "lib-libxml": ">=2.6.20",
+                "phpunit/phpunit": "^5.6",
+                "sabre/xml": "^1.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "AaronDDM\\XMLBuilder\\": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Aaron de Mello",
+                    "email": "aaron@aarondm.com"
+                }
+            ],
+            "description": "A simple PHP based XML builder",
+            "time": "2017-12-30T15:21:51+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

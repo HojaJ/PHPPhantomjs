@@ -1,0 +1,5 @@
+{
+    "require": {
+        "aaronddm/xml-builder": "^1.0"
+    }
+}
